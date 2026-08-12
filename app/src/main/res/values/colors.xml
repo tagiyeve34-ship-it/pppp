@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ink">#16202A</color>
+    <color name="teal">#2E6F6B</color>
+    <color name="tealSoft">#E4EFEE</color>
+    <color name="background">#F4F6F5</color>
+    <color name="card">#FFFFFF</color>
+    <color name="slate">#64748B</color>
+    <color name="amber">#E8A33D</color>
+    <color name="amberSoft">#FBF0DD</color>
+    <color name="red">#C1533F</color>
+    <color name="redSoft">#FBE9E5</color>
+    <color name="line">#E4E7E9</color>
+</resources>

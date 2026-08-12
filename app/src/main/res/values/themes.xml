@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.AileNezaretiPanel" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/teal</item>
+        <item name="colorPrimaryDark">@color/ink</item>
+        <item name="colorAccent">@color/teal</item>
+        <item name="android:statusBarColor">@color/ink</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="colorSurface">@color/card</item>
+    </style>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ailə Nəzarəti</string>
+
+    <string name="login_title">Xoş gəlmisiniz</string>
+    <string name="login_sub">Ailənizin idarə panelinə daxil olun</string>
+    <string name="email_hint">E-poçt</string>
+    <string name="password_hint">Şifrə</string>
+    <string name="login_button">Daxil ol</string>
+    <string name="login_failed">E-poçt və ya şifrə yanlışdır</string>
+    <string name="network_error">Serverə qoşulmaq mümkün olmadı</string>
+
+    <string name="tab_home">Ana səhifə</string>
+    <string name="tab_location">Xəritə</string>
+    <string name="tab_calls">Zənglər</string>
+    <string name="tab_alerts">Xəbərlər</string>
+
+    <string name="today_records">Bugünkü qeyd</string>
+    <string name="unread_alerts">Xəbərdarlıq</string>
+    <string name="recent_activity">Son fəaliyyət</string>
+    <string name="last_updated">Son yenilənmə</string>
+    <string name="online_now">Hazırda aktivdir</string>
+    <string name="offline_now">Aktiv deyil</string>
+    <string name="no_data">Hələ məlumat yoxdur</string>
+    <string name="no_children">Uşaq profili tapılmadı</string>
+
+    <string name="range_3h">3 saat</string>
+    <string name="range_today">Bugün</string>
+    <string name="range_3d">3 gün</string>
+    <string name="range_all">Hamısı</string>
+
+    <string name="logout">Çıxış</string>
+</resources>
